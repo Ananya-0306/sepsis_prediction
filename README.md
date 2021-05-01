@@ -1,5 +1,8 @@
 # sepsis_prediction
 The early prediction of sepsis is potentially life-saving, and we challenge participants to predict sepsis 6 hours before the clinical prediction of sepsis. 
+---
+
+![Spesis Prediction](https://github.com/Ananya-0306/sepsis_prediction/blob/main/WJEM-5-50-g003.jpg)
 # Sepsis
 
 Deep learning model for sepsis prediction using high-frequency data
